@@ -11,9 +11,9 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.azc.ext.hp.com/anand-samuel-jebakumar/mult",
+    url="https://github.com/anandjebakumar/mult",
     project_urls={
-        "Bug Tracker": "https://github.azc.ext.hp.com/anand-samuel-jebakumar/mult/issues",
+        "Bug Tracker": "https://github.com/anandjebakumar/mult/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
