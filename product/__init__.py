@@ -1,1 +1,1 @@
-as
+from .multiply import multiply_numbers
